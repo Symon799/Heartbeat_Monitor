@@ -1,0 +1,38 @@
+Thu Apr 21 16:07:25 2016
+admin logged out
+Thu Apr 21 16:07:28 2016
+admin logged
+Thu Apr 21 16:08:43 2016
+admin logged
+Thu Apr 21 16:09:55 2016
+admin changed is password
+Thu Apr 21 16:09:56 2016
+admin simulated the state 2
+admin bpm : 60 
+admin bpm : 60 
+Thu Apr 21 16:10:12 2016
+admin logged out
+Thu Apr 21 16:10:15 2016
+symon logged
+Thu Apr 21 16:10:57 2016
+symon simulated the state 12
+symon bpm : 60 
+symon bpm : 84 
+symon bpm : 120 ALERT !!!
+symon bpm : 204 ALERT !!!
+symon bpm : 240 ALERT !!!
+symon bpm : 60 
+symon bpm : 12 ALERT !!!
+symon bpm : 24 ALERT !!!
+Thu Apr 21 16:11:52 2016
+symon changed is password
+Thu Apr 21 16:11:53 2016
+symon logged out
+Thu Apr 21 16:12:00 2016
+admin logged
+Thu Apr 21 16:15:49 2016
+admin logged out
+Fri Apr 22 02:52:18 2016
+symon logged
+Fri Apr 22 02:52:21 2016
+symon logged out

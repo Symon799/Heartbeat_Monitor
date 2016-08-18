@@ -1,0 +1,4 @@
+﻿  heartbeat.c
+d:\documents\visual studio 2015\projects\heartbeat\heartbeat\heartbeat.c(172): warning C4101: 'filename' : variable locale non référencée
+  heartbeat.vcxproj -> D:\Documents\Visual Studio 2015\Projects\heartbeat\Debug\heartbeat.exe
+  heartbeat.vcxproj -> D:\Documents\Visual Studio 2015\Projects\heartbeat\Debug\heartbeat.pdb (Partial PDB)
